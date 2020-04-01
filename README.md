@@ -1,6 +1,6 @@
 # Regularizing Class-wise Predictions via Self-knowledge Distillation (CS-KD)
 
-PyTorch implementation of ["Regularizing Class-wise Predictions via Self-knowledge Distillation"](https://) (CVPR 2020).
+PyTorch implementation of ["Regularizing Class-wise Predictions via Self-knowledge Distillation"](https://arxiv.org/abs/2003.13964) (CVPR 2020).
 
 ## Requirements
 
@@ -19,7 +19,12 @@ train fine-grained dataset on resnet with class-wise regularization losses
 ## Citation
 If you use this code for your research, please cite our papers.
 ```
-@inproceedings{
-  xxx
+@misc{yun2020regularizing,
+    title={Regularizing Class-wise Predictions via Self-knowledge Distillation},
+    author={Sukmin Yun and Jongjin Park and Kimin Lee and Jinwoo Shin},
+    year={2020},
+    eprint={2003.13964},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
 }
 ```
