@@ -19,12 +19,11 @@ train fine-grained dataset on resnet with class-wise regularization losses
 ## Citation
 If you use this code for your research, please cite our papers.
 ```
-@misc{yun2020regularizing,
-    title={Regularizing Class-wise Predictions via Self-knowledge Distillation},
-    author={Sukmin Yun and Jongjin Park and Kimin Lee and Jinwoo Shin},
-    year={2020},
-    eprint={2003.13964},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
+@InProceedings{Yun_2020_CVPR,
+author = {Yun, Sukmin and Park, Jongjin and Lee, Kimin and Shin, Jinwoo},
+title = {Regularizing Class-Wise Predictions via Self-Knowledge Distillation},
+booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
 }
 ```
